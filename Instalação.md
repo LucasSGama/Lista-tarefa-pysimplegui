@@ -1,4 +1,4 @@
-# p na paInstalando e atualizando o Pista do usuario para instalar a biblioteca
+# Instalando e atualizando o Pip nas pasta do usuario para instalar a biblioteca
 python -m pip install --upgrade pip --user
 
 # Verificando a versão
